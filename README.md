@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priscilla-02&label=Profile%20views&color=0e75b6&style=flat" alt="priscilla-02" /> </p>
 
-- 🚀 I’m currently working on [Frontend Project: NC News](https://nc-news-by-priscilla-c.netlify.app/)
+- 🚀 I’m currently working on Mini App with Vue.js
 
 - 💡 I’m currently learning **React Native, Firebase, Vue.js, Typescript**
 
