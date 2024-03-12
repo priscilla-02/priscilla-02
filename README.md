@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priscilla-02&label=Profile%20views&color=0e75b6&style=flat" alt="priscilla-02" /> </p>
 
-- 🚀 I’m currently working on Mini App with Vue.js
-
-- 💡 I’m currently learning **React Native, Firebase, Vue.js, Typescript**
+- 💡 I’m currently learning **Typescript, Redux**
 
 - 🥑 Fun fact: **I am a trilingual, a sushi lover, and enjoy salsa dancing** 🍣
 
