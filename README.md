@@ -34,5 +34,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priscilla-02&show_icons=true&locale=en&layout=compact" alt="priscilla-02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priscilla-02&" alt="priscilla-02" /></p>
