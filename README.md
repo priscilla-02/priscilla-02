@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priscilla-02&label=Profile%20views&color=0e75b6&style=flat" alt="priscilla-02" /> </p>
 
-- 💡 I’m currently learning **Next.js, Redux**
+- 💡 I’m currently learning **Next.js, Prisma**
 
 - 🥑 Fun fact: **I am a trilingual, a sushi lover, and enjoy salsa dancing** 🍣
 
@@ -29,6 +29,7 @@
   <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> </a> 
    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> 
+     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> 
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/> </a>
     
 </p>
