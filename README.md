@@ -29,7 +29,7 @@
   <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> </a> 
    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> 
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/mysql/index.html&backText=Return+to+VectorLogoZone" alt="typescript" width="40" height="40"/> </a> 
+     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="typescript" width="40" height="40"/> </a> 
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="MySQL" width="40" height="40"/> </a>
     
 </p>
