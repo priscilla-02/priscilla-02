@@ -26,6 +26,7 @@
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> </a>
    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue" width="40" height="40"/> </a> 
+   
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a> 
   <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="40" height="40"/> </a> 
     <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="40" height="40"/> </a> 
