@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Priscilla Chan 👋🏻</h1>
 <h3 align="center">Full-stack developer</h3>
+<!-- <img align="right" alt="Coding" width"100" src="https://camo.githubusercontent.com/ebf5606c24de332408b8ab41c786d9593ef0e36b46ce48b21610fa7c53f5394a/68747470733a2f2f692e6962622e636f2f393246484c34642f7075736865656e636f64652e676966"> -->
 
-<img align="right" alt="Coding" width"100" src="./assets/pusheen.gif"/>
+<img align="right" alt="Coding" width"100" src="./assets/pusheen.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priscilla-02&label=Profile%20views&color=0e75b6&style=flat" alt="priscilla-02" /> </p>
 
