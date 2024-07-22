@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Priscilla Chan 👋🏻</h1>
 <h3 align="center">Full-stack developer</h3>
-<img align="right" alt="Coding" width"100" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif">
-
-<!-- <img align="right" alt="Coding" width"100" src="./assets/pusheen.gif" /> -->
+<img align="right" alt="Coding" width"100" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priscilla-02&label=Profile%20views&color=0e75b6&style=flat" alt="priscilla-02" /> </p>
 
